@@ -1,4 +1,4 @@
-FROM beevelop/android-nodejs
+FROM beevelop/android-nodejs:next
 
 MAINTAINER Maik Hummel <m@ikhummel.com>
 
