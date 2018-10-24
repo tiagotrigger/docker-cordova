@@ -1,6 +1,6 @@
 FROM beevelop/android-nodejs
 
-MAINTAINER Maik Hummel <m@ikhummel.com>
+MAINTAINER Tiago <tiago@eita.com>
 
 ENV CORDOVA_VERSION 7.1.0
 
